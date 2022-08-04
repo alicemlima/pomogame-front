@@ -1,0 +1,23 @@
+.counter {
+    background-color: #2B2C55;
+    border-radius: 5%;
+    height: 42vh;
+    width: 52vw;
+    align-content: center;
+    justify-content: center;
+}
+
+.counter div {
+    background-color: #FE5E63;
+    border-radius: 5%;
+    height: 40vh;
+    width: 50vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.counter h1 {
+    font-size: 10rem;
+    color: #fafafa;
+}

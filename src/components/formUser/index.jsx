@@ -1,8 +1,7 @@
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import axios from 'axios'
 
 const baseURL = "http://localhost:8080"
 
